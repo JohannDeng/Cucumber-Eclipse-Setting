@@ -1,0 +1,14 @@
+Maven + Cucumber plug-in
+
+Help-Istall Software
+
+Maven:
+"work with" http://download.eclipse.org/technology/m2e/releases
+
+
+Cucumber:
+add, then input：
+
+Name： cucumber
+
+Location：http://cucumber.github.com/cucumber-eclipse/update-site
